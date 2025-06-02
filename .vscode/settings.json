@@ -38,4 +38,5 @@
 	"Lua.diagnostics.disable": [
 		"lowercase-global"
 	],
+	"java.compile.nullAnalysis.mode": "automatic",
 }
